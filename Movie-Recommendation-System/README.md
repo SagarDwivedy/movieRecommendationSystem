@@ -1,8 +1,11 @@
 AJAX Movie Recommendation System
+
 Project Overview
+
 The AJAX Movie Recommendation System is a web-based application that recommends movies based on user input. The system leverages AJAX for asynchronous data fetching and updates the web page dynamically without requiring a full page reload. Users can search for movies, view detailed information, and receive recommendations in real-time.
 
 Features
+
 Real-time movie search: Users can input movie names, and suggestions are provided dynamically using AJAX.
 Movie recommendations: Based on the selected movie, the system suggests similar movies using a recommendation algorithm.
 Movie details: The system fetches details like title, director, cast, genre, and plot summary.
