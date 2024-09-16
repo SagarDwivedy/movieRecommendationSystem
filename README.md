@@ -34,7 +34,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/SagarDwivedi/movieRecommendationSystem
+git clone https://github.com/SagarDwivedy/movieRecommendationSystem
 Navigate to the project directory:
 
 bash
